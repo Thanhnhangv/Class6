@@ -1,0 +1,8 @@
+{
+  "name": " Học Toán Cùng Cô Nhân - ƯC \u0026 ƯCLN Toán 6",
+  "description": "Hệ thống LMS dạy học thích ứng môn Toán 6: Chủ đề Ước chung \u0026 Ước chung lớn nhất kết hợp AI Tutor Cô Nhân và Game hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
